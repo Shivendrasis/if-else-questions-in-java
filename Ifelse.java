@@ -1,6 +1,6 @@
 import java.util.*;
 
-// if-else practice questions kkk
+// if-else practice questions 
 
 // ------------positive or negetive number--------------1
 
